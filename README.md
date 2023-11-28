@@ -18,4 +18,10 @@ If your merge request is deemed unfit, the merge request will remain open for ea
 
 This makes it easy for others to find the correct file by navigating the commit history, and alleviates the burden of renaming the file to something long.
 
-Please provide a virustotal link of which the SHA256 matches the file and the first date of upload is more than 3 weeks old. You may submit earlier but it will not be merged before then.
+Please provide a virustotal link of which the SHA256 matches the file and the first date of upload is more than 3 weeks old. 
+
+You may submit earlier but it will not be merged before then. 
+
+Does not apply to txt and source code files. Does apply to zips, rars, jars, pdfs, docs. Do not submit executables. Do not submit repositories without a license, submit a txt file with links in it instead (origin, optionally web archive, mirror(s)).
+
+
