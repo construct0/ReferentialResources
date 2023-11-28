@@ -17,3 +17,5 @@ If your merge request is deemed unfit, the merge request will remain open for ea
 - Commit description: [name][year][if applicable, DOI identifier] + authors + public domain url (e.g. sci-hub.se, sci-hub.ru)
 
 This makes it easy for others to find the correct file by navigating the commit history, and alleviates the burden of renaming the file to something long.
+
+Please provide a virustotal link of which the SHA256 matches the file and the first date of upload is more than 3 weeks old. You may submit earlier but it will not be merged before then.
